@@ -1,0 +1,10 @@
+name: OriginalSurvival
+main: com.itabashi.dl.Main
+version: 1.0.0
+api-version: 1.13
+commands:
+  verify:
+  getstick:
+  ackb:
+  house:
+  proxy:
